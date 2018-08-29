@@ -1,0 +1,9 @@
+/target/
+/bin/
+/testFileReader1.txt
+/state2.json
+.idea/
+log-forwarder-java.iml
+logstash-forwarder-java.iml
+/.log-forwarder-java
+vjLogger.txt
